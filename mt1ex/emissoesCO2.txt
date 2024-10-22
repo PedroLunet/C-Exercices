@@ -1,0 +1,24 @@
+Emissões de CO2 per capita:
+ANO	PT	CN
+2000	-nan	0.00
+2001	-nan	0.00
+2002	-nan	0.00
+2003	-nan	0.00
+2004	-nan	0.00
+2005	-nan	0.00
+2006	-nan	0.00
+2007	-nan	0.00
+2008	-nan	0.00
+2009	-nan	0.00
+2010	-nan	0.00
+2011	-nan	0.00
+2012	-nan	0.00
+2013	-nan	0.00
+2014	-nan	0.00
+2015	-nan	0.00
+2016	-nan	0.00
+2017	-nan	0.00
+2018	-nan	0.00
+2019	-nan	0.00
+2020	-nan	0.00
+Ano em que a China ultrapassou Portugal : 4198480
